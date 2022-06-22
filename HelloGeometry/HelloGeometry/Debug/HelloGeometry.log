@@ -1,0 +1,12 @@
+﻿  Origem.cpp
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(183,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(184,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(189,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(190,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(191,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(192,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(195,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(223,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(251,18): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\HelloGeometry\Origem.cpp(252,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  HelloGeometry.vcxproj -> C:\Users\fstei\Desktop\Geração Procedural de Texturas com Coherent Noise\HelloGeometry\Debug\HelloGeometry.exe
